@@ -202,6 +202,7 @@ Some of the more popular and actively maintained ones are:
 
 Notable alternatives also include:
 
+* [rekit](https://github.com/supnate/rekit/)
 * [enclave](https://github.com/eanplatter/enclave)
 * [motion](https://github.com/motion/motion)
 * [quik](https://github.com/satya164/quik)
